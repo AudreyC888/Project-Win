@@ -941,3 +941,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-14.42.16:443][  0]LogZenServiceInstance: Installed version at 'C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.6.6-202504241958-windows-x64-release-f090a03'
 [2025.09.22-14.42.16:444][  0]LogZenServiceInstance: No current process using the data dir found, launching a new instance
 [2025.09.22-14.42.16:444][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\acarlisle26\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 17084  --child-id Zen_17084_Startup'
+[2025.09.22-14.42.16:721][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.09.22-14.42.16:721][  0]LogZenServiceInstance: Local ZenServer AutoLaunch initialization completed in 0.294 seconds
+[2025.09.22-14.42.16:732][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2025.09.22-14.42.16:833][  0]LogDerivedDataCache: C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.10 seconds.
+[2025.09.22-14.42.16:833][  0]LogDerivedDataCache: Display: C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.14ms. RandomReadSpeed=10.69MBs, RandomWriteSpeed=88.26MBs. Assigned SpeedClass 'Local'
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Local: Using data cache path C:/Users/acarlisle26/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: ZenShared: Disabled because Host is set to 'None'
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Unable to find inner node ZenShared for hierarchy Hierarchy.
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Shared: Disabled because no path is configured.
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2025.09.22-14.42.16:841][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2025.09.22-14.42.16:843][  0]LogShaderCompilers: Guid format shader working directory is -88 characters bigger than the processId version (../../../../../../Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-Win/ProjectWin/Intermediate/Shaders/WorkingDirectory/17084/).
+[2025.09.22-14.42.16:844][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/acarlisle26/AppData/Local/Temp/UnrealShaderWorkingDir/2F867367417CDEFA5E7FA09C4123566D/'.
+[2025.09.22-14.42.16:844][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.09.22-14.42.16:857][  0]LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2025.09.22-14.42.16:857][  0]LogShaderCompilers: Display: Using 8 local workers for shader compilation
+[2025.09.22-14.42.16:861][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-Win/ProjectWin/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.09.22-14.42.16:861][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.09.22-14.42.18:098][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
